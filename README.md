@@ -10,7 +10,14 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
+<h3 align="center">A passionate backend developer from India</h3>
 
+- 🔭 I’m currently working on **GunDB (Decentralized Database).**
+
+- 🌱 I’m currently learning **GraphQL.**
+
+- 👯 I’m looking to collaborate on **Node.js , Express.**
 <h1> 🛠  Languages and Tools :</h1>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
