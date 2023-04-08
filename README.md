@@ -11,7 +11,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
-👩‍💻  About Me :
+<h1>👩‍💻  About Me : </h1>
 
 - 🔭 I’m currently working on **GunDB (Decentralized Database).**
 
