@@ -13,9 +13,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h1>👩‍💻  About Me : </h1>
 
-- 🔭 I’m currently working on **GunDB (Decentralized Database).**
+- 🔭 I’m currently working on **Nodejs, Appscripts.**
 
-- 🌱 I’m currently learning **GraphQL.**
+- 🌱 I’m currently learning **AWS.**
 
 - 👯 I’m looking to collaborate on **Node.js , Express.**
 <h1> 🛠  Languages and Tools :</h1>
