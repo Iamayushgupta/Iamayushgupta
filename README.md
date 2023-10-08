@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Nodejs, Appscripts.**
 
-- 🌱 I’m currently learning **AWS.**
+- 🌱 I’m currently learning **AWS, GoLang**
 
 - 👯 I’m looking to collaborate on **Node.js , Express.**
 <h1> 🛠  Languages and Tools :</h1>
