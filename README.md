@@ -13,11 +13,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Gupta</h1>
 <h1>👩‍💻  About Me : </h1>
 
-- 🔭 I’m currently working on **Nodejs, Appscripts.**
+- 🔭 I’m currently working on **Golang, AWS.**
 
 - 🌱 I’m currently learning **AWS, GoLang**
 
-- 👯 I’m looking to collaborate on **Node.js , Express.**
+- 👯 I’m looking to collaborate on **Node.js , Golang, Python, Java**
 <h1> 🛠  Languages and Tools :</h1>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
